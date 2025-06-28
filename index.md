@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
-:Thank you for visiting!
+title:Thank you for visiting!
 ---
